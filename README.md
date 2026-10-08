@@ -67,7 +67,7 @@ The global Healthcare Natural Language Processing (NLP) market was valued at **$
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[microsoft/BioGPT](https://github.com/microsoft/BioGPT)** [![Stars](https://img.shields.io/github/stars/microsoft/BioGPT?style=social&color=white)](https://github.com/microsoft/BioGPT/stargazers)  
   **Domain-specific generative transformer language model for biomedical text generation and mining**, MIT licensed. Pretrained on millions of PubMed abstracts. Achieves state-of-the-art performance on biomedical relation extraction, document classification, and medical question answering tasks. 🧬
@@ -122,7 +122,7 @@ Contributions are welcome! Follow these steps to submit new healthcare NLP platf
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, starting price, and clear description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, starting price, and clear description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
